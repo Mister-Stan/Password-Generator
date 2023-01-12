@@ -1,17 +1,15 @@
 # password generator
 
-## Website link: https://mister-stan.github.io/Console-Finances/
+## Website link: https://mister-stan.github.io/Password-Generator/
 
-## ![my screenshot](./console-finances.png)
+## ![my screenshot](./assets/password-generator.png)
 
-## https://mister-stan.github.io/Console-Finances/
+## This is a website built using HTML, CSS and javaScript. The javaScript code generates a password that satisfies specific criteria selected by the user regarding the password length, use of special characters, numbers, lower case characters and upper case characters.
 
-## This is a website built using HTML and javaScript. The javaScript code generate a password in base of user input that must satisfy diffenet criteria.
-
-## Built with:HTML and javaScript
+## Built with:HTML, CSS and javaScript
 
 ## Installation N/A
 
 ## Credits https://skillsforlife.edx.org/
 
-## License MIT ![GitHub](https://img.shields.io/github/license/mister-stan/console-finances)
+## License MIT ![GitHub](https://img.shields.io/github/license/mister-stan/password-generator)

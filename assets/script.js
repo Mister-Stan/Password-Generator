@@ -167,7 +167,7 @@ function writePassword() {
   //actualising user choices
   getPasswordOptions();
   
-  var password;
+  var password ;
   
   //if the user choses at least one type of characters, the password would be generated
   if(arrUserCharactersTypes.length > 0){
